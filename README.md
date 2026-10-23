@@ -5,7 +5,7 @@
 </h3>
 
 <h3>
-  ✨ Welcome to my little corner! ✨
+  ✨ Welcome to my little page! ✨
 </h3>
 
 <h3>
