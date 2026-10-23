@@ -15,4 +15,5 @@
 </div>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niyoosha92&show_icons=true&theme=radical)](https://github.com/anurag)
 
